@@ -73,7 +73,7 @@ const SideNav = () => {
           </div>
 
           <button className="w-full mt-5 py-3 rounded-xl bg-white text-red-600 font-semibold hover:scale-[1.02] transition-all">
-            Register Now
+            local donation centers
           </button>
         </div>
       </div>
